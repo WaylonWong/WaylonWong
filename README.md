@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 I’m currently learning coumputer science.
+
 I’m looking for help withl software engineers.
 
 <!--
